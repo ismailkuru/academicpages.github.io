@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-spring-teaching-3
 venue: "Koc University, Computer Science Department"
-date: 2012-06-23
+date: 
 location: "Istanbul, Turkey"
 ---
 I ran office hours and did grading.
