@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2019-summer-teaching-1
 venue: "Drexel University, Computer Science Department"
 date: 2019-06-23
-location: "City, Country"
+location: "Philadelphia, U.S.A"
 ---
 I ran office hours and did grading.
 
