@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ismail Kuru, a PhD student at [Drexel University School of Computer Science](https://drexel.edu/cci/academics/computer-science-department). I am advised by [Dr. Colin S. Gordon](https://www.cs.drexel.edu/~csgordon/). Before, I finished my M.S courses [TU Munich](http://www.in.tum.de/en/for-prospective-students/masters-programs/computational-science-and-engineering/) and graduated with M.S. degree from [Koc University](https://eng.ku.edu.tr/en/academics/computer-engineering/) in 2015. Thanks [Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/) for supporting me by giving 1 of 18 graduate study scholarships.
-
+I am Ismail Kuru, a PhD student at [Drexel University School of Computer Science](https://drexel.edu/cci/academics/computer-science-department). I am advised by [Dr. Colin S. Gordon](https://www.cs.drexel.edu/~csgordon/). Before, I finished my M.S courses [TU Munich](http://www.in.tum.de/en/for-prospective-students/masters-programs/computational-science-and-engineering/) and graduated with M.S. degree from [Koc University](https://eng.ku.edu.tr/en/academics/computer-engineering/) in 2015. Thanks [Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/) for supporting me through a Microsoft Research scholarship during my M.S degree.
 
 My research interests lie in,
 ======
