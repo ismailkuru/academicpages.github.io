@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Software Engineering - SE 311"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2018-spring-teaching-2
+venue: "Drexel University, Computer Science Department"
+date: 2019-01-01
+location: "Philadelphia, U.S.A"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+I ran office hours and did grading.
 
 Heading 1
 ======
