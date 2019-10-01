@@ -7,7 +7,7 @@ venue: "Drexel University, Computer Science Department"
 date: 2019-06-23
 location: "City, Country"
 ---
-I have ran office hours and did grading.
+I ran office hours and did grading.
 
 Heading 1
 ======
