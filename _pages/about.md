@@ -21,4 +21,4 @@ My research interests lie in,
 
 For more info
 ------
-More info about my reseach can be found in [publications](https://dblp.org/pers/hd/k/Kuru_0001:Ismail).
+More info about my reseach can be found here in [publications-dblp](https://dblp.org/pers/hd/k/Kuru_0001:Ismail) and [publications-google-scholar](https://scholar.google.com/citations?hl=en&user=lDXIRIYAAAAJ)
