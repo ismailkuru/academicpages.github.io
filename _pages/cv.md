@@ -31,6 +31,10 @@ Work experience
   * Crytek GmbH.
   * Duties included: Refining Compilation of a Game-Engine
   
+* Fall 2015: Research Assistant
+  * Georgia Institute of Technology
+  * Duties included: Admitted to CS PhD Program -- Exploring Potential Research Topics
+  
 * Fall 2014-Spring 2015: Research Visitor
   * Microsoft Research
   * Duties included: Visiting MSR Cambridge for collaboration on "Type System Memory Safe RCU" Project
