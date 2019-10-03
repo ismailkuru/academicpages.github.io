@@ -13,7 +13,7 @@ Education
 ======
 * M.S. in Computer Science, Koc University, 2015
 * M.S. in Computer Science, Drexel University, 2014
-* Ph.D in Programming Lang. and Verification, Drexel University, (In Progress)
+* Ph.D in Programming Lang. and Verification, (first in Georgia Tech then switched to Drexel to work with Colin S. Gordon), (Fall 2016 - In Progress)
 
 Work experience
 ======
