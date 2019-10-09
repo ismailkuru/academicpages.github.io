@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, Koc University, 2015
-* M.S. in Computer Science, Drexel University, 2014
+
 * Ph.D in Programming Lang. and Verification, (first at GaTech then switched to Drexel to work with Colin S. Gordon), (Fall 2016 - In Progress)
+* M.S. in Computer Science, Drexel University, 2018
+* M.S. in Computer Science, Koc University, 2015
+
 
 Work experience
 ======
 * Spring 2019: Research Intern
   * BedRock Systems
-  * Duties included: Building Concurrent Reasoining Principles fpr OS Kernel
+  * Duties included: Building Concurrent Reasoning Principles for OS-Kernel
   * Supervisor: Dr. Gregory Malecha
 
 * Fall 2016-Now: Research Assistant
