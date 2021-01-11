@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Programming Lang. and Verification, (first at GaTech then switched to Drexel to work with Colin S. Gordon), (Fall 2016 - In Progress)
+* Ph.D in Programming Lang. and Verification, (first at GaTech then switched to Drexel to work with Colin S. Gordon), (Fall 2018 - In Progress)
 * M.S. in Computer Science, Drexel University, 2018
 * M.S. in Computer Science, Koc University, 2015
 
